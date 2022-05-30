@@ -1,0 +1,11 @@
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\bin\Debug\Ejercicio1_CalculoPromedio.exe.config
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\bin\Debug\Ejercicio1_CalculoPromedio.exe
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\bin\Debug\Ejercicio1_CalculoPromedio.pdb
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\obj\Debug\Ejercicio1_CalculoPromedio.csproj.AssemblyReference.cache
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\obj\Debug\Ejercicio1_CalculoPromedio.csproj.SuggestedBindingRedirects.cache
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\obj\Debug\Ejercicio1_CalculoPromedio.Form1.resources
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\obj\Debug\Ejercicio1_CalculoPromedio.Properties.Resources.resources
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\obj\Debug\Ejercicio1_CalculoPromedio.csproj.GenerateResource.cache
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\obj\Debug\Ejercicio1_CalculoPromedio.csproj.CoreCompileInputs.cache
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\obj\Debug\Ejercicio1_CalculoPromedio.exe
+C:\Users\kgzun\source\repos\Ejercicio1_CalculoPromedio\Ejercicio1_CalculoPromedio\obj\Debug\Ejercicio1_CalculoPromedio.pdb
