@@ -1,0 +1,11 @@
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\bin\Debug\KevinZuniga.exe.config
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\bin\Debug\KevinZuniga.exe
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\bin\Debug\KevinZuniga.pdb
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\obj\Debug\KevinZuniga.csproj.AssemblyReference.cache
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\obj\Debug\KevinZuniga.csproj.SuggestedBindingRedirects.cache
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\obj\Debug\KevinZuniga.Form1.resources
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\obj\Debug\KevinZuniga.Properties.Resources.resources
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\obj\Debug\KevinZuniga.csproj.GenerateResource.cache
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\obj\Debug\KevinZuniga.csproj.CoreCompileInputs.cache
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\obj\Debug\KevinZuniga.exe
+C:\Users\kgzun\OneDrive\Documentos\KevinZuniga\KevinZuniga\obj\Debug\KevinZuniga.pdb

@@ -1,0 +1,11 @@
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\bin\Debug\Ejercicio2_Par_Impar.exe.config
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\bin\Debug\Ejercicio2_Par_Impar.exe
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\bin\Debug\Ejercicio2_Par_Impar.pdb
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\obj\Debug\Ejercicio2_Par_Impar.csproj.AssemblyReference.cache
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\obj\Debug\Ejercicio2_Par_Impar.csproj.SuggestedBindingRedirects.cache
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\obj\Debug\Ejercicio2_Par_Impar.Properties.Resources.resources
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\obj\Debug\Ejercicio2_Par_Impar.csproj.GenerateResource.cache
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\obj\Debug\Ejercicio2_Par_Impar.csproj.CoreCompileInputs.cache
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\obj\Debug\Ejercicio2_Par_Impar.exe
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\obj\Debug\Ejercicio2_Par_Impar.pdb
+C:\Users\kgzun\source\repos\Ejercicio2_Par_Impar\Ejercicio2_Par_Impar\obj\Debug\Ejercicio2_Par_Impar.Par_Impar.resources

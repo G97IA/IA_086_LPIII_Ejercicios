@@ -1,0 +1,11 @@
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\bin\Debug\Ejercicio_3_SalarioEmpleado.exe.config
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\bin\Debug\Ejercicio_3_SalarioEmpleado.exe
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\bin\Debug\Ejercicio_3_SalarioEmpleado.pdb
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\obj\Debug\Ejercicio_3_SalarioEmpleado.csproj.AssemblyReference.cache
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\obj\Debug\Ejercicio_3_SalarioEmpleado.csproj.SuggestedBindingRedirects.cache
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\obj\Debug\Ejercicio_3_SalarioEmpleado.Form1.resources
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\obj\Debug\Ejercicio_3_SalarioEmpleado.Properties.Resources.resources
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\obj\Debug\Ejercicio_3_SalarioEmpleado.csproj.GenerateResource.cache
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\obj\Debug\Ejercicio_3_SalarioEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\obj\Debug\Ejercicio_3_SalarioEmpleado.exe
+C:\Users\kgzun\source\repos\Ejercicio_3_SalarioEmpleado\Ejercicio_3_SalarioEmpleado\obj\Debug\Ejercicio_3_SalarioEmpleado.pdb
